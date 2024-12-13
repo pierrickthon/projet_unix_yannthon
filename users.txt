@@ -1,0 +1,6 @@
+Yann élèves /bin/zsh home
+Kevin  élèves /bin/zsh home
+Tom élèves /bin/zsh home
+Yanis élèves /bin/zsh home
+Nathan élèves /bin/zsh home
+
